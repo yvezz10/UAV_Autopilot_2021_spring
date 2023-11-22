@@ -20,7 +20,7 @@ In this lab, image was rotated, flip and zoom from scratch. For the zoom fuction
 ><img src = "img/lab01_bilinear_result.jpg">
 
 ## Lab 2
-### Keyword: Histogram equalization, Otsu
+### Keyword: Histogram equalization, Otsu algorithm
 In this lab, histogram equalization was established. Besides, Otsu algorithm was consturted form scratch.
 
 -Input image
@@ -50,6 +50,7 @@ In this lab, we compare the different method of image charateristic extraction.
 In the final, ORB-SLAM and Colmap were used to modeling the environmnet.
 
 The blue line was Colmap result and the orange dots was ORB-SLAM result.
+
 -Result: (rmse = 0.8131214164989768 )
 
 ><img src = "img/final_orb_slam.gif">
