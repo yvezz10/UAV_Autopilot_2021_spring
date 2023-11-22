@@ -28,6 +28,7 @@ In this lab, we compare the different method of image charateristic extraction.
 
 In the final, ORB-SLAM and Colmap were used to modeling the environmnet.
 
+The blue line was Colmap result and the orange dots was ORB-SLAM result.
 -Result: (rmse = 0.8131214164989768 )
 
 ><img src = "img/final_orb_slam.gif">
