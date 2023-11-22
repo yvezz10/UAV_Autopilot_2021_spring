@@ -10,16 +10,23 @@ In this lab, image was rotated, flip and zoom from scratch. For the zoom fuction
 
 -Original image:
 ><img src = "img/Lenna.png">
--Rotate result:
+<!-- -Rotate result:
 ><img src = "img/lab01_rotate_result.jpg">
 -Flip result:
-><img src = "img/lab01_flip_result.jpg">
+><img src = "img/lab01_flip_result.jpg"> -->
 -Nearest interpolation result:
 ><img src = "img/lab01_nearest_result.jpg">
 -Bilinear interpolation result:
-><img src = "img/lab01_bilinear_result.jpg"><img src = "img/lab01_nearest_result.jpg">
+><img src = "img/lab01_bilinear_result.jpg">
 
 ## Lab 2
+### Keyword: Histogram equalization, Otsu
+In this lab, histogram equalization was established. Besides, Otsu algorithm was consturted form scratch.
+
+-Input image
+><img src = "img/lab02_input.jpg">
+-Result Otsu image
+><img src = "img/lab02_result.jpg">
 
 ## Lab 3
 
