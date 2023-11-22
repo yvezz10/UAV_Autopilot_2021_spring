@@ -7,6 +7,8 @@ For the detail of each lab please refer to its report.
 
 ## Lab 2
 
+## Lab 3
+
 ## Lab 11
 ### Keyword: SIFT, SURF, ORB
 
