@@ -11,13 +11,13 @@ In this lab, image was rotated, flip and zoom from scratch. For the zoom fuction
 -Original image:
 ><img src = "img/Lenna.png">
 -Rotate result:
-><img src = "img/Lab01_rotate_result.jpg">
+><img src = "img/lab01_rotate_result.jpg">
 -Flip result:
-><img src = "img/Lab01_flip_result.jpg">
+><img src = "img/lab01_flip_result.jpg">
 -Nearest interpolation result:
-><img src = "img/Lab01_nearest_result.jpg">
+><img src = "img/lab01_nearest_result.jpg">
 -Bilinear interpolation result:
-><img src = "img/Lab01_bilinear_result.jpg">
+><img src = "img/lab01_bilinear_result.jpg">
 
 ## Lab 2
 
