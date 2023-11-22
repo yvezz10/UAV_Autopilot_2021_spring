@@ -4,7 +4,7 @@ This repo contains the lab code in the 2021 Computer Vision for UAV Autopolot co
 For the detail of each lab please refer to its report.
 
 ## Lab 1
-# Keyword: Image rotaion, flip, interpolation
+### Keyword: Image rotaion, flip, interpolation
 
 In this lab, image was rotated, flip and zoom from scratch. For the zoom fuction, nearest and bilinear interpolation methods were tested.
 
@@ -17,7 +17,7 @@ In this lab, image was rotated, flip and zoom from scratch. For the zoom fuction
 -Nearest interpolation result:
 ><img src = "img/lab01_nearest_result.jpg">
 -Bilinear interpolation result:
-><img src = "img/lab01_bilinear_result.jpg">
+><img src = "img/lab01_bilinear_result.jpg"><img src = "img/lab01_nearest_result.jpg">
 
 ## Lab 2
 
