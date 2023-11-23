@@ -29,6 +29,12 @@ In this lab, histogram equalization was established. Besides, Otsu algorithm was
 ><img src = "img/lab02_result.jpg">
 
 ## Lab 3
+### Keyword: Connected component label
+
+In this lab, people in the video were labeled by connected component method. In addition, two-pass method was performed.
+
+-Result video
+><img src = "img/lab03_result.gif">
 
 ## Lab 11
 ### Keyword: SIFT, SURF, ORB
