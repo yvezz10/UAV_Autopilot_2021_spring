@@ -36,6 +36,13 @@ In this lab, people in the video were labeled by connected component method. In 
 -Result video
 ><img src = "img/lab03_result.gif">
 
+## Lab 9
+
+In this lab, we trained yolo to identify two different characters and position in the frame. The result is shown in the following video.
+
+-Result video
+><img src = "img/lab09_output.gif">
+
 ## Lab 11
 ### Keyword: SIFT, SURF, ORB
 
