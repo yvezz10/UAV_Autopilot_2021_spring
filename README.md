@@ -1,7 +1,7 @@
 # Computer Vision for UAV Autopolot
 ### Teacher: Kuan-Wen Chen
 This repo contains the lab code in the 2021 Computer Vision for UAV Autopolot course.
-For the detail of each lab please refer to its report.
+
 
 ## Lab 1
 ### Keyword: Image rotaion, flip, interpolation
